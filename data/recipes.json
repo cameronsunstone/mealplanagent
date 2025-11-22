@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Greek Yogurt & Berries",
+    "meal_type": "breakfast",
+    "diet_tags": ["omnivore", "vegetarian"],
+    "calories": 350,
+    "ingredients": [
+      { "name": "greek yogurt", "quantity": 1, "unit": "cup" },
+      { "name": "mixed berries", "quantity": 0.5, "unit": "cup" },
+      { "name": "honey", "quantity": 1, "unit": "tbsp" }
+    ]
+  },
+  {
+    "name": "Chicken, Rice & Broccoli",
+    "meal_type": "dinner",
+    "diet_tags": ["omnivore"],
+    "calories": 650,
+    "ingredients": [
+      { "name": "chicken breast", "quantity": 6, "unit": "oz" },
+      { "name": "white rice", "quantity": 1, "unit": "cup" },
+      { "name": "broccoli", "quantity": 1, "unit": "cup" }
+    ]
+  },
+  {
+    "name": "Veggie Omelette",
+    "meal_type": "breakfast",
+    "diet_tags": ["omnivore", "vegetarian"],
+    "calories": 400,
+    "ingredients": [
+      { "name": "eggs", "quantity": 3, "unit": "pcs" },
+      { "name": "spinach", "quantity": 0.5, "unit": "cup" },
+      { "name": "mushrooms", "quantity": 0.5, "unit": "cup" },
+      { "name": "cheddar cheese", "quantity": 0.25, "unit": "cup" }
+    ]
+  },
+  {
+    "name": "Quinoa & Roasted Veg Bowl",
+    "meal_type": "lunch",
+    "diet_tags": ["omnivore", "vegetarian", "vegan"],
+    "calories": 550,
+    "ingredients": [
+      { "name": "quinoa", "quantity": 1, "unit": "cup" },
+      { "name": "zucchini", "quantity": 0.5, "unit": "cup" },
+      { "name": "bell pepper", "quantity": 0.5, "unit": "cup" },
+      { "name": "olive oil", "quantity": 1, "unit": "tbsp" }
+    ]
+  },
+  {
+    "name": "Salmon & Asparagus",
+    "meal_type": "dinner",
+    "diet_tags": ["omnivore", "keto"],
+    "calories": 600,
+    "ingredients": [
+      { "name": "salmon fillet", "quantity": 6, "unit": "oz" },
+      { "name": "asparagus", "quantity": 1, "unit": "cup" },
+      { "name": "olive oil", "quantity": 1, "unit": "tbsp" }
+    ]
+  }
+]
